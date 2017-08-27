@@ -1,0 +1,15 @@
+{
+  "name": "wechat_bot",
+  "version": "1.0.0",
+  "description": "微信聊天机器人",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "guojinliang",
+  "license": "ISC",
+  "dependencies": {
+    "wechaty": "^0.8.182"
+  }
+}
